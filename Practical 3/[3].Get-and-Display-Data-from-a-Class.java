@@ -7,10 +7,7 @@ public class lab3 {
 
         System.out.println();
         System.out.println("Output data is- ");
-        v.displaydata();
-        
-        System.out.println();
-        System.out.println("Developed by Arya"); 
+        v.displaydata(); 
     }
 }
 
