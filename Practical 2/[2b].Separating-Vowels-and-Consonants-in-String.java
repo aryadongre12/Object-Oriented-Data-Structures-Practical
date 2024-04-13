@@ -29,9 +29,6 @@ public class lab2b{
         System.out.println("Consonents are: " + con);
         System.out.println("Digits are: " + dig);
         System.out.println("Special Characters are: " + sp);
-
-        System.out.println();
-        System.out.println("Developed by Arya");
         sc.close();
     } 
 }
